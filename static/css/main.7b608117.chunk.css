@@ -1,0 +1,2 @@
+.list__item{display:flex;max-width:250px;border:2px solid transparent}.list__item:not(:last-child){margin-bottom:10px}.list__item--selected{border:2px solid green}.list__btn{margin-left:auto}
+/*# sourceMappingURL=main.7b608117.chunk.css.map */
